@@ -9,3 +9,13 @@
 * ##### 📍 Ubicación: El Salvador
 
 ---
+## 🛠️ Tecnologías que estoy aprendiendo
+* ##### JavaScript (básico/intermedio)
+* ##### Node.js
+* ##### n8n (automatización de flujos de trabajo)
+* ##### APIs
+* ##### Git y GitHub
+* ##### Bases de datos
+* ##### Microsoft Visual Studio Code
+
+---
