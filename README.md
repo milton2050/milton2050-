@@ -1,5 +1,5 @@
 # 👋 Hola! soy Milton Contreras
-#### Soy un técnico en desarrollador de software en formación con gran interés en la automatización de procesos y el desarrollo de soluciones tecnológicas que aporten valor en entornos educativos y empresariales. Actualmente estoy participando en un bootcamp intensivo donde he adquirido habilidades prácticas en herramientas modernas.
+Soy un técnico en desarrollador de software en formación con gran interés en la automatización de procesos y el desarrollo de soluciones tecnológicas que aporten valor en entornos educativos y empresariales. Actualmente estoy participando en un bootcamp intensivo donde he adquirido habilidades prácticas en herramientas modernas.
 
 ---
 ## 🚀 Sobre mí
@@ -40,5 +40,10 @@
 ##### 🎯 Objetivo del proyecto:
 Optimizar el proceso manual de registro de incidencias en instituciones educativas, reduciendo errores y mejorando la comunicación entre docentes, estudiantes y padres.
 
+---
+## 📫 Contacto
+* Email: harmacr@gmail.com
+* LinkedIn: milton-contreras
+* GitHub: milton2050
 ---
 #### ✨ Gracias por visitar mi perfil
