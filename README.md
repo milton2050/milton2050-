@@ -1,5 +1,5 @@
 # 👋 Hola! soy Milton Contreras
-#### Soy un/a desarrollador/a en formación con gran interés en la automatización de procesos y el desarrollo de soluciones tecnológicas que aporten valor en entornos educativos y empresariales. Actualmente estoy participando en un bootcamp intensivo donde he adquirido habilidades prácticas en herramientas modernas.
+#### Soy un técnico en desarrollador de software en formación con gran interés en la automatización de procesos y el desarrollo de soluciones tecnológicas que aporten valor en entornos educativos y empresariales. Actualmente estoy participando en un bootcamp intensivo donde he adquirido habilidades prácticas en herramientas modernas.
 
 ---
 ## 🚀 Sobre mí
