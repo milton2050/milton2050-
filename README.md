@@ -3,19 +3,19 @@
 
 ---
 ## 🚀 Sobre mí
-* ##### 🎓 Formación actual: Bootcamp en IA, desarrollo de software y automatización en n8n.
-* ##### 🌱 Intereses: Automatización, desarrollo web, integración de APIs.
-* ##### 💡 Objetivo: Crear soluciones eficientes que optimicen procesos reales.
-* ##### 📍 Ubicación: El Salvador
+* 🎓 Formación actual: Bootcamp en IA, desarrollo de software y automatización en n8n.
+* 🌱 Intereses: Automatización, desarrollo web, integración de APIs.
+* 💡 Objetivo: Crear soluciones eficientes que optimicen procesos reales.
+* 📍 Ubicación: El Salvador
 
 ---
 ## 🛠️ Tecnologías que estoy aprendiendo
-* ##### JavaScript (básico/intermedio)
-* ##### Node.js
-* ##### n8n (automatización de flujos de trabajo)
-* ##### APIs
-* ##### Git y GitHub
-* ##### Bases de datos
+* JavaScript (básico/intermedio)
+* Node.js
+* n8n (automatización de flujos de trabajo)
+* APIs
+* Git y GitHub
+* Bases de datos
 * ##### Microsoft Visual Studio Code
 
 ---
@@ -39,3 +39,6 @@
 
 ##### 🎯 Objetivo del proyecto:
 Optimizar el proceso manual de registro de incidencias en instituciones educativas, reduciendo errores y mejorando la comunicación entre docentes, estudiantes y padres.
+
+---
+#### ✨ Gracias por visitar mi perfil
