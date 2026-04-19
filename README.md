@@ -3,9 +3,9 @@
 
 ---
 ## 🚀 Sobre mí
-* #### 🎓 Formación actual: Bootcamp en IA, desarrollo de software y automatización en n8n.
-* #### 🌱 Intereses: Automatización, desarrollo web, integración de APIs.
-* #### 💡 Objetivo: Crear soluciones eficientes que optimicen procesos reales.
-* #### 📍 Ubicación: El Salvador
+* ##### 🎓 Formación actual: Bootcamp en IA, desarrollo de software y automatización en n8n.
+* ##### 🌱 Intereses: Automatización, desarrollo web, integración de APIs.
+* ##### 💡 Objetivo: Crear soluciones eficientes que optimicen procesos reales.
+* ##### 📍 Ubicación: El Salvador
 
 ---
