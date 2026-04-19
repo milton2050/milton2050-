@@ -16,7 +16,7 @@
 * APIs
 * Git y GitHub
 * Bases de datos
-* ##### Microsoft Visual Studio Code
+* Microsoft Visual Studio Code
 
 ---
 ## 📌 Proyecto destacado del bootcamp
